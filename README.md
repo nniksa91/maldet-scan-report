@@ -1,1 +1,1 @@
-Script will scan the directori to which it's set up
+Script will scan the directory to which it's set up
