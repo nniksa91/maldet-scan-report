@@ -1,0 +1,1 @@
+Script will scan the directori to which it's set up
